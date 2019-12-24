@@ -1,0 +1,1 @@
+(import ./nix/nixpkgs.nix {}).haskell.packages.ghc865.ghcide-starter
